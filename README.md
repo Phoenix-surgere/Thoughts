@@ -3,7 +3,7 @@ I am an Econ graduate who would like to move into AI Research, even if that soun
 
 IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 
-1) Quantum Machine Learning 
+1) Quantum Machine Learning (should i do quantum learning from physics first? It went badly without it the first time!)
 2) Reinforcement Learning (also deeplearning.ai new TF specialization!)
 3) Behavioral Psychology (and figure out how to use it for insights to build better models?)
 4) Genetic Optimization and Algorithms (and really any relevant natural processes to copy when attempting to improve models)
