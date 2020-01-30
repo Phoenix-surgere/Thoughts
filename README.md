@@ -9,5 +9,5 @@ IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 4) Genetic Optimization and Algorithms (and really any relevant natural processes to copy when attempting to improve models)
 5) Semi/Un - Supervised Learning (eg autoencoders or various dimension reduction techniques)
 6) GANs (data generation seems very important for many other models)
-7) Languages: SQL (for databases, which I should also figure out how to use within python); R (for extra capabilities and versatility); Later potentially C++ (which would also be geared for the hobby of game development as well!)
+7) Languages: SQL (for databases, which I should also figure out how to use within python); R (UPDATE: MAKING GOOD PROGRESS ON IT! for extra capabilities and versatility); Later potentially C++ (which would also be geared for the hobby of game development as well!)
 8) Future course topics I want to follow, barring ML: BioInformatics, Physics ( QM for QML and Astronomy for curiosity), Cybersecurity, Game Development (hobbyist) , Dinosaurs + Ancient History  + Creative Writing (has excellent courses on coursera!) (hobbyist) 
