@@ -13,3 +13,5 @@ IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 8) Future course topics I want to follow, barring ML: BioInformatics, Physics ( QM for QML and Astronomy for curiosity), Cybersecurity, Game Development (hobbyist) , Dinosaurs + Ancient History  + Creative Writing (has excellent courses on coursera!) (hobbyist) 
 9) Domain Specific Applications: NLP, CV, Recommenders
 10) Functional Keras API
+11) Proper way to do cross-validation (eg inside folds of cv, using pipelines), nested c-v exercise and bootstrapping / MC
+12) Self-Supervised learning -> Still experimental? Can only find academic papers related to it
