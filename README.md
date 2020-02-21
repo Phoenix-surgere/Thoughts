@@ -15,3 +15,4 @@ IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 10) Functional Keras API
 11) Proper way to do cross-validation (eg inside folds of cv, using pipelines), nested c-v exercise and bootstrapping / MC
 12) Self-Supervised learning -> Still experimental? Can only find academic papers related to it
+13) (Probabilistic) Graphical Models seem interesting too, but hard
