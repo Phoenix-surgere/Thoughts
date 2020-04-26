@@ -17,4 +17,5 @@ IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 12) Self-Supervised learning -> Still experimental? Can only find academic papers related to it
 13) (Probabilistic) Graphical Models seem interesting too, but hard
 14) Model explainability! (Shap, Lime, Eli5, PDPbox)
-15)VR=> Apps in ganes, googlemaps?
+15)VR=> Apps in ganes, googlemaps? -> Been done already via Oculus rift
+16) Simulating ecosystems etc in Unreal / Unity
