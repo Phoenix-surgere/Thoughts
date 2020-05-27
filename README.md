@@ -1,5 +1,4 @@
 # hello-world
-I am an Econ graduate who would like to move into AI Research, even if that sounds / seems improbable and untenable and unfeasible. But what can you do, right? Got to at least try.
 
 IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 
