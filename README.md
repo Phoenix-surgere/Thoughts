@@ -17,7 +17,7 @@ IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 13) (Probabilistic) Graphical Models seem interesting too, but hard
 14) Model explainability! (Shap, Lime, Eli5, PDPbox)
 15)VR=> Apps in ganes, googlemaps? -> Been done already via Oculus rift
-16) Simulating ecosystems etc in Unreal / Unity
+16) Simulating ecosystems etc in Unreal / Unity, AND IN general artificial life
 
 During MSc:
-Graph-based Deep Machine Learning, Semi-Supervived Learning, Explainability, Causal ML, Structured Prediction ML, 
+Graph-based Deep Machine Learning, Semi-Supervived Learning, Explainability, Causal ML, Structured Prediction ML, Probabilistic DL 
