@@ -18,3 +18,6 @@ IDEAS I WANT TO TRY OUT / EDUCATE MYSELF (MORE) IN :
 14) Model explainability! (Shap, Lime, Eli5, PDPbox)
 15)VR=> Apps in ganes, googlemaps? -> Been done already via Oculus rift
 16) Simulating ecosystems etc in Unreal / Unity
+
+During MSc:
+Graph-based Deep Machine Learning, Semi-Supervived Learning, Explainability, Causal ML, Structured Prediction ML, 
